@@ -1,2 +1,3 @@
-# wallpapers
-Official wallpapers repository of SnoopGod Linux OS
+## Wallpapers
+
+Official `wallpapers` repository of [SnoopGod](https://snoopgod.com) Linux operating system.
